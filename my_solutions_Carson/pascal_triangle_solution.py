@@ -11,3 +11,4 @@ def pascal_triangle_solution(row:int) -> list[list[int]]:
     return matrix
 
 print(pascal_triangle_solution(12))
+
