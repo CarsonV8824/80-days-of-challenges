@@ -65,6 +65,11 @@ Over 80 days, I complete small Python exercise (5–50 lines) to practice logic,
 | 22  | Count even and odd numbers    |       Beginner        |  ✅ Completed  |  02 Nov 2025  | [Click here](scripts/count_even_odd.py)             |
 | 23  |   Sum of positive numbers     |       Beginner        |  ✅ Completed  |  03 Nov 2025  | [Click here](scripts/sum_of_positives.py)           |
 | 24  | Countdown with "Boom"         |       Beginner        |  ✅ Completed  |  04 Nov 2025  | [Click here](scripts/countdown_and_boom.py)         |
+| 25  | Coin flip guessing game       |       Beginner        |  ✅ Completed  |  05 Nov 2025  | [Click here](scripts/coin_flip_game.py)             |
+| 26  | Sort library by pages         |       Beginner        |  ✅ Completed  |  06 Nov 2025  | [Click here](scripts/sort_library_by_pages.py)      |
+| 27  | Most frequent element (Mode)  |       Beginner        |  ✅ Completed  |  07 Nov 2025  | [Click here](scripts/most_frequent_element.py)      |
+| 28  | Bubble Sort algorithm         | Beginner-Intermediate |  ✅ Completed  |  08 Nov 2025  | [Click here](scripts/bubble_sort.py)                |
+| 29  | Strong password generator     | Beginner-Intermediate |  ✅ Completed  |  09 Nov 2025  | [Click here](scripts/strong_password_generator.py) |
 | ... |              ...              |          ...          |      ...        |      ...      |                       ...                           |
 
 ---
